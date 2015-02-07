@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Apply recommended SmartOS TCP tunings
-#
 
 send_buffer=128000
 receive_buffer=1048576
