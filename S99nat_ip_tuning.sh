@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Apply recommended SmartOS TCP tunings for IPNAT hosts
+# Apply recommended Joyent SmartOS TCP tunings for IPNAT hosts
 
 send_buffer=128000
 receive_buffer=1048576
